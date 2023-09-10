@@ -23,7 +23,6 @@ dimwishlist:item=-3317538576&perks=3300816228
 
 // Gutshot
 //notes: Gutshot
-dimwishlist:item=1&perks=1365187766,3038247973#notes: gutshot + explosive
 dimwishlist:item=-1&perks=1365187766
 
 // Fragile Focus
