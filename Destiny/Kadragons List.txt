@@ -1,0 +1,72 @@
+title:Kadragons Trash List
+description:Trash List
+
+// Discord on Primaries
+//notes: Discord on Primaries
+dimwishlist:item=-5&perks=3978468247
+dimwishlist:item=-6&perks=3978468247
+dimwishlist:item=-7&perks=3978468247
+dimwishlist:item=-8&perks=3978468247
+dimwishlist:item=-14&perks=3978468247
+dimwishlist:item=-3954685534&perks=3978468247
+dimwishlist:item=-3317538576&perks=3978468247
+
+// Auto-loading on Primaries
+//notes: Auto-loading on primaries
+dimwishlist:item=-5&perks=3300816228
+dimwishlist:item=-6&perks=3300816228
+dimwishlist:item=-7&perks=3300816228
+dimwishlist:item=-8&perks=3300816228
+dimwishlist:item=-14&perks=3300816228
+dimwishlist:item=-3954685534&perks=3300816228
+dimwishlist:item=-3317538576&perks=3300816228
+
+// Gutshot
+//notes: Gutshot
+dimwishlist:item=1&perks=1365187766,3038247973#notes: gutshot + explosive
+dimwishlist:item=-1&perks=1365187766
+
+// Fragile Focus
+//notes: Fragile focus
+dimwishlist:item=-1&perks=2451262963
+
+// Air assault
+//notes: Air Assault
+dimwishlist:item=-1&perks=3722653512
+
+// Underdog
+//notes: Underdog
+dimwishlist:item=-1&perks=205890336
+
+// Genesis
+//notes: Genesis
+dimwishlist:item=-1&perks=3096702027
+
+// Sneak Bow
+//notes: Sneak Bow
+dimwishlist:item=-3317538576&perks=908147344
+
+// Under Over
+//notes: Under Over
+dimwishlist:item=-1&perks=1870851715
+
+// Slick Draw
+//notes: Slick Draw
+dimwishlist:item=-1&perks=1821614984
+
+// Full Auto Trigger System
+//notes: Full Auto Trigger System
+dimwishlist:item=-1&perks=2117683199
+
+// Firmly Planted + Moving Target
+//notes: Firmly Planted + Moving Target
+dimwishlist:item=-1&perks=280464955,588594999
+
+
+
+
+// Sniper Specific
+//notes: Sniper Specific
+dimwishlist:item=-10&perks=2010801679 // Ambitious Assassin
+dimwishlist:item=-10&perks=1866048759 // Hipfire Grip
+dimwishlist:item=-10&perks=4071163871 // Threat Detecter
