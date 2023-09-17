@@ -21,48 +21,32 @@ dimwishlist:item=-14&perks=3300816228
 dimwishlist:item=-3954685534&perks=3300816228
 dimwishlist:item=-3317538576&perks=3300816228
 
-// Gutshot
-//notes: Gutshot
-dimwishlist:item=-1&perks=1365187766
-
-// Fragile Focus
-//notes: Fragile focus
-dimwishlist:item=-1&perks=2451262963
-
-// Air assault
-//notes: Air Assault
-dimwishlist:item=-1&perks=3722653512
-
-// Underdog
-//notes: Underdog
-dimwishlist:item=-1&perks=205890336
-
-// Genesis
-//notes: Genesis
-dimwishlist:item=-1&perks=3096702027
-
-// Sneak Bow
-//notes: Sneak Bow
-dimwishlist:item=-3317538576&perks=908147344
-
-// Under Over
-//notes: Under Over
-dimwishlist:item=-1&perks=1870851715
-
-// Slick Draw
-//notes: Slick Draw
-dimwishlist:item=-1&perks=1821614984
-
-// Full Auto Trigger System
-//notes: Full Auto Trigger System
-dimwishlist:item=-1&perks=2117683199
-
 // Firmly Planted + Moving Target
 //notes: Firmly Planted + Moving Target
 dimwishlist:item=-1&perks=280464955,588594999
 
+// Compulsive Reloader + Continued firing perks
+//notes: Compulsive Reloader + Continued firing perks
+dimwishlist:item=-1&perks=671806388,557221067 // Killing Tally
+dimwishlist:item=-1&perks=671806388,365154968 // Target Lock
+dimwishlist:item=-1&perks=671806388,1820235745 // Subsistence
+dimwishlist:item=-1&perks=671806388,1645158859 // Under Pressure
+dimwishlist:item=-1&perks=671806388,
+dimwishlist:item=-1&perks=671806388,
+dimwishlist:item=-1&perks=671806388,
 
-
+// Gutshot + Precision perks
+//notes: Gutshot + Precision Perks
+dimwishlist:item=-1&perks=1365187766,2896038713 // Focused Fury
+dimwishlist:item=-1&perks=1365187766,247725512 // Rapid Hit
+dimwishlist:item=-1&perks=1365187766,124408337 // Headstone
+dimwishlist:item=-1&perks=1365187766,555281244 // Precision Instrument
+dimwishlist:item=-1&perks=1365187766,831391274 // Hatchling
+dimwishlist:item=-1&perks=1365187766,1168162263 // Outlaw
+dimwishlist:item=-1&perks=1365187766,1354429876 / FTTC
+dimwishlist:item=-1&perks=1365187766,3520001075 // Triple Tap
+dimwishlist:item=-1&perks=1365187766,3520001075 // Firefly
+dimwishlist:item=-1&perks=1365187766,3865257976 // Dragon Fly
 
 // Sniper Specific
 //notes: Sniper Specific
