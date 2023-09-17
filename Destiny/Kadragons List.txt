@@ -3,23 +3,23 @@ description:Trash List
 
 // Discord on Primaries
 //notes: Discord on Primaries
-dimwishlist:item=-5&perks=3978468247
-dimwishlist:item=-6&perks=3978468247
-dimwishlist:item=-7&perks=3978468247
-dimwishlist:item=-8&perks=3978468247
-dimwishlist:item=-14&perks=3978468247
-dimwishlist:item=-3954685534&perks=3978468247
-dimwishlist:item=-3317538576&perks=3978468247
+//dimwishlist:item=-5&perks=3978468247
+//dimwishlist:item=-6&perks=3978468247
+//dimwishlist:item=-7&perks=3978468247
+//dimwishlist:item=-8&perks=3978468247
+//dimwishlist:item=-14&perks=3978468247
+//dimwishlist:item=-3954685534&perks=3978468247
+//dimwishlist:item=-3317538576&perks=3978468247
 
 // Auto-loading on Primaries
 //notes: Auto-loading on primaries
-dimwishlist:item=-5&perks=3300816228
-dimwishlist:item=-6&perks=3300816228
-dimwishlist:item=-7&perks=3300816228
-dimwishlist:item=-8&perks=3300816228
-dimwishlist:item=-14&perks=3300816228
-dimwishlist:item=-3954685534&perks=3300816228
-dimwishlist:item=-3317538576&perks=3300816228
+//dimwishlist:item=-5&perks=3300816228
+//dimwishlist:item=-6&perks=3300816228
+//dimwishlist:item=-7&perks=3300816228
+//dimwishlist:item=-8&perks=3300816228
+//dimwishlist:item=-14&perks=3300816228
+//dimwishlist:item=-3954685534&perks=3300816228
+//dimwishlist:item=-3317538576&perks=3300816228
 
 // Firmly Planted + Moving Target
 //notes: Firmly Planted + Moving Target
