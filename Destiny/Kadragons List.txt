@@ -30,3 +30,15 @@ dimwishlist:item=-1&perks=1365187766,3865257976 // Dragon Fly
 dimwishlist:item=-10&perks=2010801679 // Ambitious Assassin
 dimwishlist:item=-10&perks=1866048759 // Hipfire Grip
 dimwishlist:item=-10&perks=4071163871 // Threat Detecter
+
+// Rocket Launcher Specific
+//notes: Rocket Launcher Specific
+dimwishlist:item=-13&perks=2586829431 // Shot Swap
+dimwishlist:item=-13&perks=691659142 // Pugilist
+dimwishlist:item=-13&perks=3708227201 // Surrounded
+dimwishlist:item=-13&perks=4071163871 // Threat Detecter
+dimwishlist:item=-13&perks=205890336 // Underdog
+dimwishlist:item=-13&perks=3096702027 // Genesis
+dimwishlist:item=-13&perks=4049631843 // One for all
+dimwishlist:item=-13&perks=3108830275 // Unrelenting
+dimwishlist:item=-13&perks=3592538738 // Wellspring
