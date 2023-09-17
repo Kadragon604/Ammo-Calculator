@@ -31,9 +31,6 @@ dimwishlist:item=-1&perks=671806388,557221067 // Killing Tally
 dimwishlist:item=-1&perks=671806388,365154968 // Target Lock
 dimwishlist:item=-1&perks=671806388,1820235745 // Subsistence
 dimwishlist:item=-1&perks=671806388,1645158859 // Under Pressure
-dimwishlist:item=-1&perks=671806388,
-dimwishlist:item=-1&perks=671806388,
-dimwishlist:item=-1&perks=671806388,
 
 // Gutshot + Precision perks
 //notes: Gutshot + Precision Perks
