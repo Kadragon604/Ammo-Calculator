@@ -1,16 +1,38 @@
 title:Kadragons Trash List
 description:Trash List
 
-// Firmly Planted + Moving Target
+//notes: Compulsive Reloader + Focused Fury
+dimwishlist:item=-1&perks=671806388,2896038713
+
+//notes: Compulsive Reloader + Killing Tally
+dimwishlist:item=-1&perks=671806388,557221067
+
+//notes: Compulsive Reloader + Subsistence
+dimwishlist:item=-1&perks=671806388,1820235745
+
+//notes: Compulsive Reloader + Target Lock
+dimwishlist:item=487205709&perks=671806388,365154968
+
+//notes: Compulsive Reloader + Under Pressure
+dimwishlist:item=-1&perks=671806388,1645158859
+
 //notes: Firmly Planted + Moving Target
 dimwishlist:item=-1&perks=280464955,588594999
 
-// Compulsive Reloader + Continued firing perks
-//notes: Compulsive Reloader + Continued firing perks
-dimwishlist:item=-1&perks=671806388,557221067 // Killing Tally
-dimwishlist:item=-1&perks=671806388,365154968 // Target Lock
-dimwishlist:item=-1&perks=671806388,1820235745 // Subsistence
-dimwishlist:item=-1&perks=671806388,1645158859 // Under Pressure
+//notes: Perfectly Float + High Ground
+dimwishlist:item=-1&perks=2272927194,2319119708
+
+//notes: Under Pressure + Triple Tap
+dimwishlist:item=-1&perks=1645158859,3400784728
+
+//notes: Under Pressure + Envious Assassin
+dimwishlist:item=-1&perks=1645158859,968510818
+
+//notes: Under Pressure + FTTC
+dimwishlist:item=-1&perks=1645158859,1354429876
+
+//notes: Under Pressure + Subsistence
+dimwishlist:item=-1&perks=1645158859,1820235745
 
 // Gutshot + Precision perks
 //notes: Gutshot + Precision Perks
