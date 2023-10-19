@@ -1,3 +1,3 @@
 ! Youtube
-@@|s.youtube.com^$youtube history
-@@|video-stats.l.google.com^$youtube history
+@@|s.youtube.com^$important
+@@|video-stats.l.google.com^$important
