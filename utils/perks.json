@@ -1,0 +1,14 @@
+{
+    "overflowing_perks": {
+        "overflow": 100,
+        "enhanced overflow": 120,
+        "envious assassin": 200,
+        "reconstruction": 100
+    },
+    "generating_perks": [
+        "fourth times the charm",
+        "triple tap",
+        "rewind rounds",
+        "enhanced rewind rounds"
+    ]
+}

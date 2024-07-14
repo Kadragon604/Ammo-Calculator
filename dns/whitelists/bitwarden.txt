@@ -1,7 +1,0 @@
-@@|api.bitwarden.com^$important
-@@|bitwarden.com^$important
-@@|help.bitwarden.com^$important
-@@|icons.bitwarden.net^$important
-@@|identity.bitwarden.com^$important
-@@|notifications.bitwarden.com^$important
-@@|vault.bitwarden.com^$important
